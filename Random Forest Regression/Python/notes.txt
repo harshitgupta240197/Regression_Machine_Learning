@@ -1,0 +1,9 @@
+Random forests or random decision forests is an ensemble learning method for classification, regression and other
+tasks that operates by constructing a multitude of decision trees at training time.
+
+Random forest is a supervised algorithm that uses ensemble learning to solve classification and regression tasks. 
+
+Ensemble learning is a process that combines multiple models to solve complex problems and improve model performance. 
+
+Random forest uses this process by creating many decision trees during training, and then taking the average of their 
+outputs to improve the predictive accuracy of the dataset.
